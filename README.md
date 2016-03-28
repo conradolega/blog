@@ -1,4 +1,4 @@
 blog
 ====
 
-My blog. Hosted at [conradolega.xyz][conradolega.xyz]
+My blog. Hosted at [http://conradolega.xyz](http://conradolega.xyz)
