@@ -17,4 +17,4 @@ github_username:  conradolega
 
 # Build settings
 markdown: kramdown
-permalink: /:year/:month/:day/:title
+permalink: /:year/:month/:day/:title/
