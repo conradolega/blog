@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Hi, I'm Conrad, a web developer based in Manila, Philippines. I'm also interested in infrastructure and configuration management.
+Hi, I'm Conrad, a software engineer based in Manila, Philippines. I'm currently a team lead at [Freelancer](https://www.freelancer.com/). I'm also interested in DevOps and SRE and might consider being one in the future.
 
-I also like reading about history, politics, psychology, and conspiracy theories. Sometimes I draw maps of fictional places.
+Outside of software engineering, I like reading about history, politics, psychology, and conspiracy theories. Sometimes I draw maps of fictional places.
 
 I love listening to music. Especially 90s R&B. Here's one of my favorites!
 
