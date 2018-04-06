@@ -10,6 +10,6 @@ Outside of software engineering, I like reading about history, politics, psychol
 
 I love listening to music. Especially 90s R&B. Here's one of my favorites!
 
-<iframe src="https://embed.spotify.com/?uri=spotify:track:27ZznnwJgGXnqF3fpeaPJe" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+<iframe src="https://open.spotify.com/embed/track/1acz4dYqwZTZw6TgRBmmf2" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
 
 If you want to know more, you can [email me](mailto:conrad@conradolega.xyz)!
