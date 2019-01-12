@@ -39,3 +39,5 @@ permalink: /:year/:month/:day/:title/
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+google_analytics: UA-132038658-1
