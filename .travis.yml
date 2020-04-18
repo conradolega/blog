@@ -1,6 +1,9 @@
-language: ruby
+language:
+  - ruby
+  - java
 rvm:
   - 2.7
+jdk: openjdk8
 env:
   - JEKYLL_ENV=production
 install: gem install -g Gemfile
