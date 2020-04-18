@@ -1,6 +1,6 @@
 language: ruby
 rvm:
-  - 2.3.1
+  - 2.7
 env:
   - JEKYLL_ENV=production
 script: jekyll build
