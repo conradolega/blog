@@ -3,5 +3,6 @@ rvm:
   - 2.7
 env:
   - JEKYLL_ENV=production
+install: gem install -g Gemfile
 script: jekyll build
 after_success: s3_website push
