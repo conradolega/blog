@@ -31,4 +31,6 @@ jobs:
           role-to-assume: ${{ vars.AWS_ROLE }}
       - name: Publish the website to S3
         run: |
-          s3_website push
+          aws s3 sync ./_site s3://${{ vars.AWS_S3_BUCKET }}/ \
+            --delete \
+            --exclude "README.md"
