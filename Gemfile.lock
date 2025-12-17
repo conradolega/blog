@@ -1,4 +1,12 @@
 GEM
+  remote: https://rubygems.org
+  specs:
+    tzinfo (2.0.6)
+      concurrent-ruby (~> 1.0)
+    tzinfo-data (1.2025.3)
+      tzinfo (>= 1.0.0)
+
+GEM
   remote: https://rubygems.org/
   specs:
     addressable (2.7.0)
@@ -91,6 +99,3 @@ DEPENDENCIES
   minima (~> 2.0)
   s3_website
   tzinfo-data
-
-BUNDLED WITH
-   1.15.3
