@@ -1,4 +1,9 @@
-FROM lipanski/docker-static-website:latest
+FROM ruby:3.4.7 AS build
+WORKDIR /usr/src/app
+COPY Gemfile Gemfile.lock .
+RUN bundle install
+COPY . .
+RUN bundle exec jekyll build
 
-# Copy your static files
-COPY _site .
+FROM lipanski/docker-static-website:latest AS server
+COPY --from=build /usr/src/app/_site .
